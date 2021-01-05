@@ -40,7 +40,7 @@
   "dependencies": {
     "@pusher/chatkit-client": "^1.13.4",
     "@pusher/chatkit-server": "^2.4.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "express": "^4.17.1",
     "file-system": "^2.2.2",
     "google-maps-react": "^2.0.2",
