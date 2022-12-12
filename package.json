@@ -41,7 +41,7 @@
     "@pusher/chatkit-client": "^1.13.4",
     "@pusher/chatkit-server": "^2.4.0",
     "axios": "^0.19.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "file-system": "^2.2.2",
     "google-maps-react": "^2.0.2",
     "mysql": "^2.18.1",
